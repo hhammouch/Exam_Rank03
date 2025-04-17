@@ -39,7 +39,6 @@ char *get_next_line(int fd)
 // 	int fd = open("file.txt", O_RDWR);
 // 	char *line = get_next_line(fd);
 
-// 	//printf ("%s\n",line);
 // 	while (line)
 // 	{
 // 		printf ("%s\n",line);
